@@ -1,0 +1,5474 @@
+{
+    "DoesBoatSinkWhenWrecked": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        }
+    ],
+    "0x43F15989": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        }
+    ],
+    "EnableEnhancedHostSupport": [
+        {
+            "name": "enabled",
+            "type": "BOOL"
+        }
+    ],
+    "0xF97B1C93": [
+        {
+            "name": "enabled",
+            "type": "BOOL"
+        }
+    ],
+    "DoesPlayerOwnSkuExt": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        },
+        {
+            "name": "skuId",
+            "type": "int"
+        }
+    ],
+    "0xDEF0480B": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        },
+        {
+            "name": "skuId",
+            "type": "int"
+        }
+    ],
+    "GetEntityAttachedTo": [
+        {
+            "name": "entity",
+            "type": "Entity"
+        }
+    ],
+    "0xFE1589F9": [
+        {
+            "name": "entity",
+            "type": "Entity"
+        }
+    ],
+    "DoesPlayerOwnSku": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        },
+        {
+            "name": "skuId",
+            "type": "int"
+        }
+    ],
+    "0x167ABA27": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        },
+        {
+            "name": "skuId",
+            "type": "int"
+        }
+    ],
+    "DeleteResourceKvpNoSync": [
+        {
+            "name": "key",
+            "type": "char*"
+        }
+    ],
+    "0x4152C90": [
+        {
+            "name": "key",
+            "type": "char*"
+        }
+    ],
+    "GetEntityHeading": [
+        {
+            "name": "entity",
+            "type": "Entity"
+        }
+    ],
+    "0x972CC383": [
+        {
+            "name": "entity",
+            "type": "Entity"
+        }
+    ],
+    "GetAllObjects": [],
+    "0x6886C3FE": [],
+    "FlagServerAsPrivate": [
+        {
+            "name": "private_",
+            "type": "BOOL"
+        }
+    ],
+    "0x13B6855D": [
+        {
+            "name": "private_",
+            "type": "BOOL"
+        }
+    ],
+    "GetEntityModel": [
+        {
+            "name": "entity",
+            "type": "Entity"
+        }
+    ],
+    "0xDAFCB3EC": [
+        {
+            "name": "entity",
+            "type": "Entity"
+        }
+    ],
+    "GetAllPeds": [],
+    "0xB8584FEF": [],
+    "GetEntityScript": [
+        {
+            "name": "entity",
+            "type": "Entity"
+        }
+    ],
+    "0xB7F70784": [
+        {
+            "name": "entity",
+            "type": "Entity"
+        }
+    ],
+    "GetEntityRotationVelocity": [
+        {
+            "name": "entity",
+            "type": "Entity"
+        }
+    ],
+    "0x9BF8A73F": [
+        {
+            "name": "entity",
+            "type": "Entity"
+        }
+    ],
+    "GetEntitySpeed": [
+        {
+            "name": "entity",
+            "type": "Entity"
+        }
+    ],
+    "0x9E1E4798": [
+        {
+            "name": "entity",
+            "type": "Entity"
+        }
+    ],
+    "GetIsVehicleSecondaryColourCustom": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        }
+    ],
+    "0x288AD228": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        }
+    ],
+    "GetLandingGearState": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        }
+    ],
+    "0xA6F02670": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        }
+    ],
+    "GetEntityRoutingBucket": [
+        {
+            "name": "entity",
+            "type": "Entity"
+        }
+    ],
+    "0xED4B0486": [
+        {
+            "name": "entity",
+            "type": "Entity"
+        }
+    ],
+    "GetPedArmour": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        }
+    ],
+    "0x2CE311A7": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        }
+    ],
+    "GetPedSourceOfDamage": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        }
+    ],
+    "0x535DB43F": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        }
+    ],
+    "GetPedInVehicleSeat": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        },
+        {
+            "name": "seatIndex",
+            "type": "int"
+        }
+    ],
+    "0x388FDE9A": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        },
+        {
+            "name": "seatIndex",
+            "type": "int"
+        }
+    ],
+    "GetHostId": [],
+    "0x5F70F5A3": [],
+    "GetPedSourceOfDeath": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        }
+    ],
+    "0x84ADF9EB": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        }
+    ],
+    "GetPlayerMaxArmour": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        }
+    ],
+    "0x2A50657": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        }
+    ],
+    "GetPlayerLastMsg": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        }
+    ],
+    "0x427E8E6A": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        }
+    ],
+    "GetEntityCollisionDisabled": [
+        {
+            "name": "entity",
+            "type": "Entity"
+        }
+    ],
+    "0xE8C0C629": [
+        {
+            "name": "entity",
+            "type": "Entity"
+        }
+    ],
+    "GetPlayerIdentifierByType": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        },
+        {
+            "name": "identifierType",
+            "type": "char*"
+        }
+    ],
+    "0xA61C8FC6": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        },
+        {
+            "name": "identifierType",
+            "type": "char*"
+        }
+    ],
+    "GetHeliMainRotorHealth": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        }
+    ],
+    "0xF01E2AAB": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        }
+    ],
+    "GetPedStealthMovement": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        }
+    ],
+    "0x40321B83": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        }
+    ],
+    "GetPlayerMaxHealth": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        }
+    ],
+    "0x8154E470": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        }
+    ],
+    "DeleteEntity": [
+        {
+            "name": "entity",
+            "type": "Entity"
+        }
+    ],
+    "0xFAA3D236": [
+        {
+            "name": "entity",
+            "type": "Entity"
+        }
+    ],
+    "GetVehicleBodyHealth": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        }
+    ],
+    "0x2B2FCC28": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        }
+    ],
+    "DoesPlayerExist": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        }
+    ],
+    "0x12038599": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        }
+    ],
+    "GetLastPedInVehicleSeat": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        },
+        {
+            "name": "seatIndex",
+            "type": "int"
+        }
+    ],
+    "0xF7C6792D": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        },
+        {
+            "name": "seatIndex",
+            "type": "int"
+        }
+    ],
+    "DropPlayer": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        },
+        {
+            "name": "reason",
+            "type": "char*"
+        }
+    ],
+    "0xBA0613E1": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        },
+        {
+            "name": "reason",
+            "type": "char*"
+        }
+    ],
+    "GetPlayerToken": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        },
+        {
+            "name": "index",
+            "type": "int"
+        }
+    ],
+    "0x54C06897": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        },
+        {
+            "name": "index",
+            "type": "int"
+        }
+    ],
+    "GetEntityRotation": [
+        {
+            "name": "entity",
+            "type": "Entity"
+        }
+    ],
+    "0x8FF45B04": [
+        {
+            "name": "entity",
+            "type": "Entity"
+        }
+    ],
+    "GetPlayerTeam": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        }
+    ],
+    "0x9873E404": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        }
+    ],
+    "GetCurrentPedWeapon": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        }
+    ],
+    "0xB0237302": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        }
+    ],
+    "GetPlayerEndpoint": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        }
+    ],
+    "0xFEE404F9": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        }
+    ],
+    "GetPlayerFakeWantedLevel": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        }
+    ],
+    "0x98D244": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        }
+    ],
+    "GetPlayerWantedCentrePosition": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        }
+    ],
+    "0x821F2D2C": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        }
+    ],
+    "GetPedScriptTaskCommand": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        }
+    ],
+    "0x84FE084": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        }
+    ],
+    "FlushResourceKvp": [],
+    "0xE27C97A0": [],
+    "DoesEntityExist": [
+        {
+            "name": "entity",
+            "type": "Object"
+        }
+    ],
+    "0x3AC90869": [
+        {
+            "name": "entity",
+            "type": "Object"
+        }
+    ],
+    "GetGameTimer": [],
+    "0xA4EA0691": [],
+    "GetEntityCoords": [
+        {
+            "name": "entity",
+            "type": "Entity"
+        }
+    ],
+    "0x1647F1CB": [
+        {
+            "name": "entity",
+            "type": "Entity"
+        }
+    ],
+    "GetEntityVelocity": [
+        {
+            "name": "entity",
+            "type": "Entity"
+        }
+    ],
+    "0xC14C9B6B": [
+        {
+            "name": "entity",
+            "type": "Entity"
+        }
+    ],
+    "GetVehicleLockOnTarget": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        }
+    ],
+    "0x4A557117": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        }
+    ],
+    "CanPlayerStartCommerceSession": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        }
+    ],
+    "0x429461C3": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        }
+    ],
+    "GetVehicleHeadlightsColour": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        }
+    ],
+    "0xD7147656": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        }
+    ],
+    "GetTrainCarriageIndex": [
+        {
+            "name": "train",
+            "type": "Vehicle"
+        }
+    ],
+    "0x4B8285CF": [
+        {
+            "name": "train",
+            "type": "Vehicle"
+        }
+    ],
+    "GetAllVehicles": [],
+    "0x332169F5": [],
+    "GetVehicleDoorLockStatus": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        }
+    ],
+    "0xD72CEF2": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        }
+    ],
+    "GetConsoleBuffer": [],
+    "0xE57429FA": [],
+    "GetAirDragMultiplierForPlayersVehicle": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        }
+    ],
+    "0x62FC38D0": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        }
+    ],
+    "GetEntityType": [
+        {
+            "name": "entity",
+            "type": "Entity"
+        }
+    ],
+    "0xB1BD08D": [
+        {
+            "name": "entity",
+            "type": "Entity"
+        }
+    ],
+    "GetHeliTailRotorHealth": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        }
+    ],
+    "0xA41BC13D": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        }
+    ],
+    "GetVehicleCustomSecondaryColour": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        },
+        {
+            "name": "r",
+            "type": "int*"
+        },
+        {
+            "name": "g",
+            "type": "int*"
+        },
+        {
+            "name": "b",
+            "type": "int*"
+        }
+    ],
+    "0x3FF247A2": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        },
+        {
+            "name": "r",
+            "type": "int*"
+        },
+        {
+            "name": "g",
+            "type": "int*"
+        },
+        {
+            "name": "b",
+            "type": "int*"
+        }
+    ],
+    "GetIsVehicleEngineRunning": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        }
+    ],
+    "0x7DC6D022": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        }
+    ],
+    "GetEntityMaxHealth": [
+        {
+            "name": "entity",
+            "type": "Entity"
+        }
+    ],
+    "0xC7AE6AA1": [
+        {
+            "name": "entity",
+            "type": "Entity"
+        }
+    ],
+    "GetEntityHealth": [
+        {
+            "name": "entity",
+            "type": "Entity"
+        }
+    ],
+    "0x8E3222B7": [
+        {
+            "name": "entity",
+            "type": "Entity"
+        }
+    ],
+    "GetPedDesiredHeading": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        }
+    ],
+    "0xC182F76E": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        }
+    ],
+    "GetIsVehiclePrimaryColourCustom": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        }
+    ],
+    "0xD7EC8760": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        }
+    ],
+    "GetVehicleNumberPlateText": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        }
+    ],
+    "0xE8522D58": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        }
+    ],
+    "GetEntityPopulationType": [
+        {
+            "name": "entity",
+            "type": "Entity"
+        }
+    ],
+    "0xFC30DDFF": [
+        {
+            "name": "entity",
+            "type": "Entity"
+        }
+    ],
+    "GetPlayerFromIndex": [
+        {
+            "name": "index",
+            "type": "int"
+        }
+    ],
+    "0xC8A9CE08": [
+        {
+            "name": "index",
+            "type": "int"
+        }
+    ],
+    "IsBoatWrecked": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        }
+    ],
+    "0x9049DB44": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        }
+    ],
+    "GetVehicleDoorsLockedForPlayer": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        }
+    ],
+    "0x1DC50247": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        }
+    ],
+    "GetVehicleLightsState": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        },
+        {
+            "name": "lightsOn",
+            "type": "BOOL*"
+        },
+        {
+            "name": "highbeamsOn",
+            "type": "BOOL*"
+        }
+    ],
+    "0x7C278621": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        },
+        {
+            "name": "lightsOn",
+            "type": "BOOL*"
+        },
+        {
+            "name": "highbeamsOn",
+            "type": "BOOL*"
+        }
+    ],
+    "GetPlayerName": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        }
+    ],
+    "0x406B4B20": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        }
+    ],
+    "GetPasswordHash": [
+        {
+            "name": "password",
+            "type": "char*"
+        }
+    ],
+    "0x23473EA4": [
+        {
+            "name": "password",
+            "type": "char*"
+        }
+    ],
+    "GetPedScriptTaskStage": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        }
+    ],
+    "0x44B0E5E2": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        }
+    ],
+    "GetVehicleRadioStationIndex": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        }
+    ],
+    "0x57037960": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        }
+    ],
+    "GetVehicleFlightNozzlePosition": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        }
+    ],
+    "0xAD40AD55": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        }
+    ],
+    "GetVehicleWheelType": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        }
+    ],
+    "0xDA58D7AE": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        }
+    ],
+    "GetVehicleDirtLevel": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        }
+    ],
+    "0xFD15C065": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        }
+    ],
+    "GetPedSpecificTaskType": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "index",
+            "type": "int"
+        }
+    ],
+    "0x7F4563D3": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "index",
+            "type": "int"
+        }
+    ],
+    "GetResourcePath": [
+        {
+            "name": "resourceName",
+            "type": "char*"
+        }
+    ],
+    "0x61DCF017": [
+        {
+            "name": "resourceName",
+            "type": "char*"
+        }
+    ],
+    "GetPlayerPing": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        }
+    ],
+    "0xFF1290D4": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        }
+    ],
+    "GetSelectedPedWeapon": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        }
+    ],
+    "0xD240123E": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        }
+    ],
+    "GetPlayerGuid": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        }
+    ],
+    "0xE52D9680": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        }
+    ],
+    "GetHashKey": [
+        {
+            "name": "model",
+            "type": "char*"
+        }
+    ],
+    "0x98EFF6F1": [
+        {
+            "name": "model",
+            "type": "char*"
+        }
+    ],
+    "GetVehicleTyreSmokeColor": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        },
+        {
+            "name": "r",
+            "type": "int*"
+        },
+        {
+            "name": "g",
+            "type": "int*"
+        },
+        {
+            "name": "b",
+            "type": "int*"
+        }
+    ],
+    "0x75280015": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        },
+        {
+            "name": "r",
+            "type": "int*"
+        },
+        {
+            "name": "g",
+            "type": "int*"
+        },
+        {
+            "name": "b",
+            "type": "int*"
+        }
+    ],
+    "GetNumPlayerIndices": [],
+    "0x63D13184": [],
+    "GetPlayerTimeInPursuit": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        },
+        {
+            "name": "lastPursuit",
+            "type": "BOOL"
+        }
+    ],
+    "0x7ADE63E1": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        },
+        {
+            "name": "lastPursuit",
+            "type": "BOOL"
+        }
+    ],
+    "IsPlayerCommerceInfoLoadedExt": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        }
+    ],
+    "0x1D14F4FE": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        }
+    ],
+    "GetVehicleExtraColours": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        },
+        {
+            "name": "pearlescentColor",
+            "type": "int*"
+        },
+        {
+            "name": "wheelColor",
+            "type": "int*"
+        }
+    ],
+    "0x80E4659B": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        },
+        {
+            "name": "pearlescentColor",
+            "type": "int*"
+        },
+        {
+            "name": "wheelColor",
+            "type": "int*"
+        }
+    ],
+    "GetPlayerInvincible": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        }
+    ],
+    "0x680C90EE": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        }
+    ],
+    "GetVehiclePetrolTankHealth": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        }
+    ],
+    "0xE41595CE": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        }
+    ],
+    "GetNumPlayerTokens": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        }
+    ],
+    "0x619E4A3D": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        }
+    ],
+    "GetPedMaxHealth": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        }
+    ],
+    "0xA45B6C8D": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        }
+    ],
+    "GetTrainCarriageEngine": [
+        {
+            "name": "train",
+            "type": "Vehicle"
+        }
+    ],
+    "0x95070FA": [
+        {
+            "name": "train",
+            "type": "Vehicle"
+        }
+    ],
+    "IsVehicleExtraTurnedOn": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        },
+        {
+            "name": "extraId",
+            "type": "int"
+        }
+    ],
+    "0x42098B5": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        },
+        {
+            "name": "extraId",
+            "type": "int"
+        }
+    ],
+    "IsPlayerAceAllowed": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        },
+        {
+            "name": "object",
+            "type": "char*"
+        }
+    ],
+    "0xDEDAE23D": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        },
+        {
+            "name": "object",
+            "type": "char*"
+        }
+    ],
+    "GetPedCauseOfDeath": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        }
+    ],
+    "0x63458C27": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        }
+    ],
+    "IsPlayerCommerceInfoLoaded": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        }
+    ],
+    "0xBEFE93F4": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        }
+    ],
+    "IsVehicleWindowIntact": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        },
+        {
+            "name": "windowIndex",
+            "type": "int"
+        }
+    ],
+    "0xAC4EF23D": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        },
+        {
+            "name": "windowIndex",
+            "type": "int"
+        }
+    ],
+    "GetPlayerIdentifier": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        },
+        {
+            "name": "identifier",
+            "type": "int"
+        }
+    ],
+    "0x7302DBCF": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        },
+        {
+            "name": "identifier",
+            "type": "int"
+        }
+    ],
+    "GetVehicleDashboardColour": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        },
+        {
+            "name": "color",
+            "type": "int*"
+        }
+    ],
+    "0xA0DBD08D": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        },
+        {
+            "name": "color",
+            "type": "int*"
+        }
+    ],
+    "IsPlayerUsingSuperJump": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        }
+    ],
+    "0xC7D2C20C": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        }
+    ],
+    "HasEntityBeenMarkedAsNoLongerNeeded": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        }
+    ],
+    "0x9C9A3BE0": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        }
+    ],
+    "GetVehicleWindowTint": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        }
+    ],
+    "0x13D53892": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        }
+    ],
+    "GetNumPlayerIdentifiers": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        }
+    ],
+    "0xFF7F66AB": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        }
+    ],
+    "GetVehicleInteriorColour": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        },
+        {
+            "name": "color",
+            "type": "int*"
+        }
+    ],
+    "0xCCFF3B6E": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        },
+        {
+            "name": "color",
+            "type": "int*"
+        }
+    ],
+    "IsPedUsingActionMode": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        }
+    ],
+    "0x5AE7EDA2": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        }
+    ],
+    "IsFlashLightOn": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        }
+    ],
+    "0x76876154": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        }
+    ],
+    "IsVehicleSirenOn": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        }
+    ],
+    "0x25EB5873": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        }
+    ],
+    "GetPlayerRoutingBucket": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        }
+    ],
+    "0x52441C34": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        }
+    ],
+    "GetPlayerPed": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        }
+    ],
+    "0x6E31E993": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        }
+    ],
+    "HasVehicleBeenDamagedByBullets": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        }
+    ],
+    "0xB8AF3137": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        }
+    ],
+    "GetVehicleColours": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        },
+        {
+            "name": "colorPrimary",
+            "type": "int*"
+        },
+        {
+            "name": "colorSecondary",
+            "type": "int*"
+        }
+    ],
+    "0x40D82D88": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        },
+        {
+            "name": "colorPrimary",
+            "type": "int*"
+        },
+        {
+            "name": "colorSecondary",
+            "type": "int*"
+        }
+    ],
+    "IsPedAPlayer": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        }
+    ],
+    "0x404794CA": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        }
+    ],
+    "IsPlayerEvadingWantedLevel": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        }
+    ],
+    "0x89A3881A": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        }
+    ],
+    "MumbleSetPlayerMuted": [
+        {
+            "name": "playerSrc",
+            "type": "int"
+        },
+        {
+            "name": "toggle",
+            "type": "bool"
+        }
+    ],
+    "0xCC6C2EB1": [
+        {
+            "name": "playerSrc",
+            "type": "int"
+        },
+        {
+            "name": "toggle",
+            "type": "bool"
+        }
+    ],
+    "MumbleIsPlayerMuted": [
+        {
+            "name": "playerSrc",
+            "type": "int"
+        }
+    ],
+    "0x1D5D50C2": [
+        {
+            "name": "playerSrc",
+            "type": "int"
+        }
+    ],
+    "LoadPlayerCommerceData": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        }
+    ],
+    "0xA8F63EAB": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        }
+    ],
+    "IsBoatAnchoredAndFrozen": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        }
+    ],
+    "0xD5C39EE6": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        }
+    ],
+    "GetVehicleCustomPrimaryColour": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        },
+        {
+            "name": "r",
+            "type": "int*"
+        },
+        {
+            "name": "g",
+            "type": "int*"
+        },
+        {
+            "name": "b",
+            "type": "int*"
+        }
+    ],
+    "0x1C2B9FEF": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        },
+        {
+            "name": "r",
+            "type": "int*"
+        },
+        {
+            "name": "g",
+            "type": "int*"
+        },
+        {
+            "name": "b",
+            "type": "int*"
+        }
+    ],
+    "SetConvar": [
+        {
+            "name": "varName",
+            "type": "char*"
+        },
+        {
+            "name": "value",
+            "type": "char*"
+        }
+    ],
+    "0x341B16D2": [
+        {
+            "name": "varName",
+            "type": "char*"
+        },
+        {
+            "name": "value",
+            "type": "char*"
+        }
+    ],
+    "NetworkGetNetworkIdFromEntity": [
+        {
+            "name": "entity",
+            "type": "Entity"
+        }
+    ],
+    "0x9E35DAB6": [
+        {
+            "name": "entity",
+            "type": "Entity"
+        }
+    ],
+    "IsVehicleTyreBurst": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        },
+        {
+            "name": "wheelID",
+            "type": "int"
+        },
+        {
+            "name": "completely",
+            "type": "BOOL"
+        }
+    ],
+    "0x48C80210": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        },
+        {
+            "name": "wheelID",
+            "type": "int"
+        },
+        {
+            "name": "completely",
+            "type": "BOOL"
+        }
+    ],
+    "IsEntityVisible": [
+        {
+            "name": "entity",
+            "type": "Entity"
+        }
+    ],
+    "0x120B4ED5": [
+        {
+            "name": "entity",
+            "type": "Entity"
+        }
+    ],
+    "GetVehicleHomingLockonState": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        }
+    ],
+    "0xFBDE9FD8": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        }
+    ],
+    "HasVehicleBeenOwnedByPlayer": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        }
+    ],
+    "0xE4E83A5B": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        }
+    ],
+    "LoadPlayerCommerceDataExt": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        }
+    ],
+    "0x7995539E": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        }
+    ],
+    "IsPedStrafing": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        }
+    ],
+    "0xEFEED13C": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        }
+    ],
+    "SetConvarServerInfo": [
+        {
+            "name": "varName",
+            "type": "char*"
+        },
+        {
+            "name": "value",
+            "type": "char*"
+        }
+    ],
+    "0x9338D547": [
+        {
+            "name": "varName",
+            "type": "char*"
+        },
+        {
+            "name": "value",
+            "type": "char*"
+        }
+    ],
+    "GetVehicleRoofLivery": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        }
+    ],
+    "0x872CF42": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        }
+    ],
+    "NetworkGetFirstEntityOwner": [
+        {
+            "name": "entity",
+            "type": "Entity"
+        }
+    ],
+    "0x1E546224": [
+        {
+            "name": "entity",
+            "type": "Entity"
+        }
+    ],
+    "IsPedRagdoll": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        }
+    ],
+    "0xC833BBE1": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        }
+    ],
+    "PerformHttpRequestInternalEx": [
+        {
+            "name": "requestData",
+            "type": "object"
+        }
+    ],
+    "0x6B171E87": [
+        {
+            "name": "requestData",
+            "type": "object"
+        }
+    ],
+    "GetPlayerCameraRotation": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        }
+    ],
+    "0x433C765D": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        }
+    ],
+    "MumbleCreateChannel": [
+        {
+            "name": "id",
+            "type": "int"
+        }
+    ],
+    "0x262663C5": [
+        {
+            "name": "id",
+            "type": "int"
+        }
+    ],
+    "IsPedHandcuffed": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        }
+    ],
+    "0x25865633": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        }
+    ],
+    "RegisterResourceAsset": [
+        {
+            "name": "resourceName",
+            "type": "char*"
+        },
+        {
+            "name": "fileName",
+            "type": "char*"
+        }
+    ],
+    "0x9862B266": [
+        {
+            "name": "resourceName",
+            "type": "char*"
+        },
+        {
+            "name": "fileName",
+            "type": "char*"
+        }
+    ],
+    "NetworkGetEntityFromNetworkId": [
+        {
+            "name": "netId",
+            "type": "int"
+        }
+    ],
+    "0x5B912C3F": [
+        {
+            "name": "netId",
+            "type": "int"
+        }
+    ],
+    "SetRoutingBucketEntityLockdownMode": [
+        {
+            "name": "bucketId",
+            "type": "int"
+        },
+        {
+            "name": "mode",
+            "type": "char*"
+        }
+    ],
+    "0xA0F2201F": [
+        {
+            "name": "bucketId",
+            "type": "int"
+        },
+        {
+            "name": "mode",
+            "type": "char*"
+        }
+    ],
+    "RegisterConsoleListener": [
+        {
+            "name": "listener",
+            "type": "func"
+        }
+    ],
+    "0x281B5448": [
+        {
+            "name": "listener",
+            "type": "func"
+        }
+    ],
+    "GetVehicleEngineHealth": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        }
+    ],
+    "0x8880038A": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        }
+    ],
+    "GetPlayerWantedLevel": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        }
+    ],
+    "0xBDCDD163": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        }
+    ],
+    "SaveResourceFile": [
+        {
+            "name": "resourceName",
+            "type": "char*"
+        },
+        {
+            "name": "fileName",
+            "type": "char*"
+        },
+        {
+            "name": "data",
+            "type": "char*"
+        },
+        {
+            "name": "dataLength",
+            "type": "int"
+        }
+    ],
+    "0xA09E7E7B": [
+        {
+            "name": "resourceName",
+            "type": "char*"
+        },
+        {
+            "name": "fileName",
+            "type": "char*"
+        },
+        {
+            "name": "data",
+            "type": "char*"
+        },
+        {
+            "name": "dataLength",
+            "type": "int"
+        }
+    ],
+    "ScheduleResourceTick": [
+        {
+            "name": "resourceName",
+            "type": "char*"
+        }
+    ],
+    "0xB88A73AD": [
+        {
+            "name": "resourceName",
+            "type": "char*"
+        }
+    ],
+    "RegisterResourceBuildTaskFactory": [
+        {
+            "name": "factoryId",
+            "type": "char*"
+        },
+        {
+            "name": "factoryFn",
+            "type": "func"
+        }
+    ],
+    "0x285B43CA": [
+        {
+            "name": "factoryId",
+            "type": "char*"
+        },
+        {
+            "name": "factoryFn",
+            "type": "func"
+        }
+    ],
+    "SetEntityRoutingBucket": [
+        {
+            "name": "entity",
+            "type": "Entity"
+        },
+        {
+            "name": "bucket",
+            "type": "int"
+        }
+    ],
+    "0x635E5289": [
+        {
+            "name": "entity",
+            "type": "Entity"
+        },
+        {
+            "name": "bucket",
+            "type": "int"
+        }
+    ],
+    "SetEntityDistanceCullingRadius": [
+        {
+            "name": "entity",
+            "type": "Entity"
+        },
+        {
+            "name": "radius",
+            "type": "float"
+        }
+    ],
+    "0xD3A183A3": [
+        {
+            "name": "entity",
+            "type": "Entity"
+        },
+        {
+            "name": "radius",
+            "type": "float"
+        }
+    ],
+    "RequestPlayerCommerceSession": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        },
+        {
+            "name": "skuId",
+            "type": "int"
+        }
+    ],
+    "0x96F93CCE": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        },
+        {
+            "name": "skuId",
+            "type": "int"
+        }
+    ],
+    "GetVehicleLivery": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        }
+    ],
+    "0xEC82A51D": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        }
+    ],
+    "GetVehicleDoorStatus": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        }
+    ],
+    "0x6E35C49C": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        }
+    ],
+    "PerformHttpRequestInternal": [
+        {
+            "name": "requestData",
+            "type": "char*"
+        },
+        {
+            "name": "requestDataLength",
+            "type": "int"
+        }
+    ],
+    "0x8E8CC653": [
+        {
+            "name": "requestData",
+            "type": "char*"
+        },
+        {
+            "name": "requestDataLength",
+            "type": "int"
+        }
+    ],
+    "SetPlayerRoutingBucket": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        },
+        {
+            "name": "bucket",
+            "type": "int"
+        }
+    ],
+    "0x6504EB38": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        },
+        {
+            "name": "bucket",
+            "type": "int"
+        }
+    ],
+    "SetResourceKvpFloatNoSync": [
+        {
+            "name": "key",
+            "type": "char*"
+        },
+        {
+            "name": "value",
+            "type": "float"
+        }
+    ],
+    "0x3517BFBE": [
+        {
+            "name": "key",
+            "type": "char*"
+        },
+        {
+            "name": "value",
+            "type": "float"
+        }
+    ],
+    "StopResource": [
+        {
+            "name": "resourceName",
+            "type": "char*"
+        }
+    ],
+    "0x21783161": [
+        {
+            "name": "resourceName",
+            "type": "char*"
+        }
+    ],
+    "SetRoutingBucketPopulationEnabled": [
+        {
+            "name": "bucketId",
+            "type": "int"
+        },
+        {
+            "name": "mode",
+            "type": "BOOL"
+        }
+    ],
+    "0xCE51AC2C": [
+        {
+            "name": "bucketId",
+            "type": "int"
+        },
+        {
+            "name": "mode",
+            "type": "BOOL"
+        }
+    ],
+    "SetMapName": [
+        {
+            "name": "mapName",
+            "type": "char*"
+        }
+    ],
+    "0xB7BA82DC": [
+        {
+            "name": "mapName",
+            "type": "char*"
+        }
+    ],
+    "StartResource": [
+        {
+            "name": "resourceName",
+            "type": "char*"
+        }
+    ],
+    "0x29B440DC": [
+        {
+            "name": "resourceName",
+            "type": "char*"
+        }
+    ],
+    "SetResourceKvpNoSync": [
+        {
+            "name": "key",
+            "type": "char*"
+        },
+        {
+            "name": "value",
+            "type": "char*"
+        }
+    ],
+    "0xCF9A2FF": [
+        {
+            "name": "key",
+            "type": "char*"
+        },
+        {
+            "name": "value",
+            "type": "char*"
+        }
+    ],
+    "GetVehiclePedIsIn": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "lastVehicle",
+            "type": "BOOL"
+        }
+    ],
+    "0xAFE92319": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "lastVehicle",
+            "type": "BOOL"
+        }
+    ],
+    "GetVehicleNumberPlateTextIndex": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        }
+    ],
+    "0x499747B6": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        }
+    ],
+    "SetConvarReplicated": [
+        {
+            "name": "varName",
+            "type": "char*"
+        },
+        {
+            "name": "value",
+            "type": "char*"
+        }
+    ],
+    "0xF292858C": [
+        {
+            "name": "varName",
+            "type": "char*"
+        },
+        {
+            "name": "value",
+            "type": "char*"
+        }
+    ],
+    "NetworkGetVoiceProximityOverrideForPlayer": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        }
+    ],
+    "0xFFEEF513": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        }
+    ],
+    "CreateVehicleServerSetter": [
+        {
+            "name": "modelHash",
+            "type": "Hash"
+        },
+        {
+            "name": "type",
+            "type": "char*"
+        },
+        {
+            "name": "x",
+            "type": "float"
+        },
+        {
+            "name": "y",
+            "type": "float"
+        },
+        {
+            "name": "z",
+            "type": "float"
+        },
+        {
+            "name": "heading",
+            "type": "float"
+        }
+    ],
+    "0x6AE51D4B": [
+        {
+            "name": "modelHash",
+            "type": "Hash"
+        },
+        {
+            "name": "type",
+            "type": "char*"
+        },
+        {
+            "name": "x",
+            "type": "float"
+        },
+        {
+            "name": "y",
+            "type": "float"
+        },
+        {
+            "name": "z",
+            "type": "float"
+        },
+        {
+            "name": "heading",
+            "type": "float"
+        }
+    ],
+    "SetPlayerCullingRadius": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        },
+        {
+            "name": "radius",
+            "type": "float"
+        }
+    ],
+    "0x8A2FBAD4": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        },
+        {
+            "name": "radius",
+            "type": "float"
+        }
+    ],
+    "ApplyForceToEntity": [
+        {
+            "name": "entity",
+            "type": "Entity"
+        },
+        {
+            "name": "forceType",
+            "type": "int"
+        },
+        {
+            "name": "x",
+            "type": "float"
+        },
+        {
+            "name": "y",
+            "type": "float"
+        },
+        {
+            "name": "z",
+            "type": "float"
+        },
+        {
+            "name": "offX",
+            "type": "float"
+        },
+        {
+            "name": "offY",
+            "type": "float"
+        },
+        {
+            "name": "offZ",
+            "type": "float"
+        },
+        {
+            "name": "boneIndex",
+            "type": "int"
+        },
+        {
+            "name": "isDirectionRel",
+            "type": "BOOL"
+        },
+        {
+            "name": "ignoreUpVec",
+            "type": "BOOL"
+        },
+        {
+            "name": "isForceRel",
+            "type": "BOOL"
+        },
+        {
+            "name": "p12",
+            "type": "BOOL"
+        },
+        {
+            "name": "p13",
+            "type": "BOOL"
+        }
+    ],
+    "0xC1C0855A": [
+        {
+            "name": "entity",
+            "type": "Entity"
+        },
+        {
+            "name": "forceType",
+            "type": "int"
+        },
+        {
+            "name": "x",
+            "type": "float"
+        },
+        {
+            "name": "y",
+            "type": "float"
+        },
+        {
+            "name": "z",
+            "type": "float"
+        },
+        {
+            "name": "offX",
+            "type": "float"
+        },
+        {
+            "name": "offY",
+            "type": "float"
+        },
+        {
+            "name": "offZ",
+            "type": "float"
+        },
+        {
+            "name": "boneIndex",
+            "type": "int"
+        },
+        {
+            "name": "isDirectionRel",
+            "type": "BOOL"
+        },
+        {
+            "name": "ignoreUpVec",
+            "type": "BOOL"
+        },
+        {
+            "name": "isForceRel",
+            "type": "BOOL"
+        },
+        {
+            "name": "p12",
+            "type": "BOOL"
+        },
+        {
+            "name": "p13",
+            "type": "BOOL"
+        }
+    ],
+    "RemoveWeaponComponentFromPed": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "weaponHash",
+            "type": "Hash"
+        },
+        {
+            "name": "componentHash",
+            "type": "Hash"
+        }
+    ],
+    "0x412AA00D": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "weaponHash",
+            "type": "Hash"
+        },
+        {
+            "name": "componentHash",
+            "type": "Hash"
+        }
+    ],
+    "SetGameType": [
+        {
+            "name": "gametypeName",
+            "type": "char*"
+        }
+    ],
+    "0xF90B7469": [
+        {
+            "name": "gametypeName",
+            "type": "char*"
+        }
+    ],
+    "CreateObject": [
+        {
+            "name": "modelHash",
+            "type": "Hash"
+        },
+        {
+            "name": "x",
+            "type": "float"
+        },
+        {
+            "name": "y",
+            "type": "float"
+        },
+        {
+            "name": "z",
+            "type": "float"
+        },
+        {
+            "name": "isNetwork",
+            "type": "BOOL"
+        },
+        {
+            "name": "netMissionEntity",
+            "type": "BOOL"
+        },
+        {
+            "name": "doorFlag",
+            "type": "BOOL"
+        }
+    ],
+    "0x2F7AA05C": [
+        {
+            "name": "modelHash",
+            "type": "Hash"
+        },
+        {
+            "name": "x",
+            "type": "float"
+        },
+        {
+            "name": "y",
+            "type": "float"
+        },
+        {
+            "name": "z",
+            "type": "float"
+        },
+        {
+            "name": "isNetwork",
+            "type": "BOOL"
+        },
+        {
+            "name": "netMissionEntity",
+            "type": "BOOL"
+        },
+        {
+            "name": "doorFlag",
+            "type": "BOOL"
+        }
+    ],
+    "SetHttpHandler": [
+        {
+            "name": "handler",
+            "type": "func"
+        }
+    ],
+    "0xF5C6330C": [
+        {
+            "name": "handler",
+            "type": "func"
+        }
+    ],
+    "SetEntityIgnoreRequestControlFilter": [
+        {
+            "name": "entity",
+            "type": "Entity"
+        },
+        {
+            "name": "ignore",
+            "type": "bool"
+        }
+    ],
+    "0x9F7F8D36": [
+        {
+            "name": "entity",
+            "type": "Entity"
+        },
+        {
+            "name": "ignore",
+            "type": "bool"
+        }
+    ],
+    "ScanResourceRoot": [
+        {
+            "name": "rootPath",
+            "type": "char*"
+        },
+        {
+            "name": "callback",
+            "type": "func"
+        }
+    ],
+    "0x636F097F": [
+        {
+            "name": "rootPath",
+            "type": "char*"
+        },
+        {
+            "name": "callback",
+            "type": "func"
+        }
+    ],
+    "TriggerLatentClientEventInternal": [
+        {
+            "name": "eventName",
+            "type": "char*"
+        },
+        {
+            "name": "eventTarget",
+            "type": "char*"
+        },
+        {
+            "name": "eventPayload",
+            "type": "char*"
+        },
+        {
+            "name": "payloadLength",
+            "type": "int"
+        },
+        {
+            "name": "bps",
+            "type": "int"
+        }
+    ],
+    "0x70B35890": [
+        {
+            "name": "eventName",
+            "type": "char*"
+        },
+        {
+            "name": "eventTarget",
+            "type": "char*"
+        },
+        {
+            "name": "eventPayload",
+            "type": "char*"
+        },
+        {
+            "name": "payloadLength",
+            "type": "int"
+        },
+        {
+            "name": "bps",
+            "type": "int"
+        }
+    ],
+    "TriggerClientEventInternal": [
+        {
+            "name": "eventName",
+            "type": "char*"
+        },
+        {
+            "name": "eventTarget",
+            "type": "char*"
+        },
+        {
+            "name": "eventPayload",
+            "type": "char*"
+        },
+        {
+            "name": "payloadLength",
+            "type": "int"
+        }
+    ],
+    "0x2F7A49E6": [
+        {
+            "name": "eventName",
+            "type": "char*"
+        },
+        {
+            "name": "eventTarget",
+            "type": "char*"
+        },
+        {
+            "name": "eventPayload",
+            "type": "char*"
+        },
+        {
+            "name": "payloadLength",
+            "type": "int"
+        }
+    ],
+    "CreatePedInsideVehicle": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        },
+        {
+            "name": "pedType",
+            "type": "int"
+        },
+        {
+            "name": "modelHash",
+            "type": "Hash"
+        },
+        {
+            "name": "seat",
+            "type": "int"
+        },
+        {
+            "name": "isNetwork",
+            "type": "BOOL"
+        },
+        {
+            "name": "bScriptHostPed",
+            "type": "BOOL"
+        }
+    ],
+    "0x3000F092": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        },
+        {
+            "name": "pedType",
+            "type": "int"
+        },
+        {
+            "name": "modelHash",
+            "type": "Hash"
+        },
+        {
+            "name": "seat",
+            "type": "int"
+        },
+        {
+            "name": "isNetwork",
+            "type": "BOOL"
+        },
+        {
+            "name": "bScriptHostPed",
+            "type": "BOOL"
+        }
+    ],
+    "ClearPedTasksImmediately": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        }
+    ],
+    "0xBC045625": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        }
+    ],
+    "FreezeEntityPosition": [
+        {
+            "name": "entity",
+            "type": "Entity"
+        },
+        {
+            "name": "toggle",
+            "type": "BOOL"
+        }
+    ],
+    "0x65C16D57": [
+        {
+            "name": "entity",
+            "type": "Entity"
+        },
+        {
+            "name": "toggle",
+            "type": "BOOL"
+        }
+    ],
+    "AddBlipForRadius": [
+        {
+            "name": "posX",
+            "type": "float"
+        },
+        {
+            "name": "posY",
+            "type": "float"
+        },
+        {
+            "name": "posZ",
+            "type": "float"
+        },
+        {
+            "name": "radius",
+            "type": "float"
+        }
+    ],
+    "0x4626756C": [
+        {
+            "name": "posX",
+            "type": "float"
+        },
+        {
+            "name": "posY",
+            "type": "float"
+        },
+        {
+            "name": "posZ",
+            "type": "float"
+        },
+        {
+            "name": "radius",
+            "type": "float"
+        }
+    ],
+    "ClearPedSecondaryTask": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        }
+    ],
+    "0xA635F451": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        }
+    ],
+    "SetResourceKvpIntNoSync": [
+        {
+            "name": "key",
+            "type": "char*"
+        },
+        {
+            "name": "value",
+            "type": "int"
+        }
+    ],
+    "0x26AEB707": [
+        {
+            "name": "key",
+            "type": "char*"
+        },
+        {
+            "name": "value",
+            "type": "int"
+        }
+    ],
+    "RemoveBlip": [
+        {
+            "name": "blip",
+            "type": "Blip*"
+        }
+    ],
+    "0xD8C3C1CD": [
+        {
+            "name": "blip",
+            "type": "Blip*"
+        }
+    ],
+    "PrintStructuredTrace": [
+        {
+            "name": "jsonString",
+            "type": "char*"
+        }
+    ],
+    "0x90892DED": [
+        {
+            "name": "jsonString",
+            "type": "char*"
+        }
+    ],
+    "AddBlipForCoord": [
+        {
+            "name": "x",
+            "type": "float"
+        },
+        {
+            "name": "y",
+            "type": "float"
+        },
+        {
+            "name": "z",
+            "type": "float"
+        }
+    ],
+    "0xC6F43D0E": [
+        {
+            "name": "x",
+            "type": "float"
+        },
+        {
+            "name": "y",
+            "type": "float"
+        },
+        {
+            "name": "z",
+            "type": "float"
+        }
+    ],
+    "TempBanPlayer": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        },
+        {
+            "name": "reason",
+            "type": "char*"
+        }
+    ],
+    "0x1E35DBBA": [
+        {
+            "name": "playerSrc",
+            "type": "char*"
+        },
+        {
+            "name": "reason",
+            "type": "char*"
+        }
+    ],
+    "ClearPedProp": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "propId",
+            "type": "int"
+        }
+    ],
+    "0x2D23D743": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "propId",
+            "type": "int"
+        }
+    ],
+    "ClearPedTasks": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        }
+    ],
+    "0xDE3316AB": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        }
+    ],
+    "SetVehicleCustomPrimaryColour": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        },
+        {
+            "name": "r",
+            "type": "int"
+        },
+        {
+            "name": "g",
+            "type": "int"
+        },
+        {
+            "name": "b",
+            "type": "int"
+        }
+    ],
+    "0x8DF9F9BC": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        },
+        {
+            "name": "r",
+            "type": "int"
+        },
+        {
+            "name": "g",
+            "type": "int"
+        },
+        {
+            "name": "b",
+            "type": "int"
+        }
+    ],
+    "SetPedHeadOverlayColor": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "overlayID",
+            "type": "int"
+        },
+        {
+            "name": "colorType",
+            "type": "int"
+        },
+        {
+            "name": "colorID",
+            "type": "int"
+        },
+        {
+            "name": "secondColorID",
+            "type": "int"
+        }
+    ],
+    "0x78935A27": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "overlayID",
+            "type": "int"
+        },
+        {
+            "name": "colorType",
+            "type": "int"
+        },
+        {
+            "name": "colorID",
+            "type": "int"
+        },
+        {
+            "name": "secondColorID",
+            "type": "int"
+        }
+    ],
+    "SetPedDefaultComponentVariation": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        }
+    ],
+    "0xC866A984": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        }
+    ],
+    "SetEntityRotation": [
+        {
+            "name": "entity",
+            "type": "Entity"
+        },
+        {
+            "name": "pitch",
+            "type": "float"
+        },
+        {
+            "name": "roll",
+            "type": "float"
+        },
+        {
+            "name": "yaw",
+            "type": "float"
+        },
+        {
+            "name": "rotationOrder",
+            "type": "int"
+        },
+        {
+            "name": "bDeadCheck",
+            "type": "BOOL"
+        }
+    ],
+    "0xA345EFE": [
+        {
+            "name": "entity",
+            "type": "Entity"
+        },
+        {
+            "name": "pitch",
+            "type": "float"
+        },
+        {
+            "name": "roll",
+            "type": "float"
+        },
+        {
+            "name": "yaw",
+            "type": "float"
+        },
+        {
+            "name": "rotationOrder",
+            "type": "int"
+        },
+        {
+            "name": "bDeadCheck",
+            "type": "BOOL"
+        }
+    ],
+    "SetEntityHeading": [
+        {
+            "name": "entity",
+            "type": "Entity"
+        },
+        {
+            "name": "heading",
+            "type": "float"
+        }
+    ],
+    "0xE0FF064D": [
+        {
+            "name": "entity",
+            "type": "Entity"
+        },
+        {
+            "name": "heading",
+            "type": "float"
+        }
+    ],
+    "CreateObjectNoOffset": [
+        {
+            "name": "modelHash",
+            "type": "Hash"
+        },
+        {
+            "name": "x",
+            "type": "float"
+        },
+        {
+            "name": "y",
+            "type": "float"
+        },
+        {
+            "name": "z",
+            "type": "float"
+        },
+        {
+            "name": "isNetwork",
+            "type": "BOOL"
+        },
+        {
+            "name": "netMissionEntity",
+            "type": "BOOL"
+        },
+        {
+            "name": "doorFlag",
+            "type": "BOOL"
+        }
+    ],
+    "0x58040420": [
+        {
+            "name": "modelHash",
+            "type": "Hash"
+        },
+        {
+            "name": "x",
+            "type": "float"
+        },
+        {
+            "name": "y",
+            "type": "float"
+        },
+        {
+            "name": "z",
+            "type": "float"
+        },
+        {
+            "name": "isNetwork",
+            "type": "BOOL"
+        },
+        {
+            "name": "netMissionEntity",
+            "type": "BOOL"
+        },
+        {
+            "name": "doorFlag",
+            "type": "BOOL"
+        }
+    ],
+    "SetBlipSprite": [
+        {
+            "name": "blip",
+            "type": "Blip"
+        },
+        {
+            "name": "spriteId",
+            "type": "int"
+        }
+    ],
+    "0x8DBBB0B9": [
+        {
+            "name": "blip",
+            "type": "Blip"
+        },
+        {
+            "name": "spriteId",
+            "type": "int"
+        }
+    ],
+    "SetPedHairTint": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "colorID",
+            "type": "int"
+        },
+        {
+            "name": "highlightColorID",
+            "type": "int"
+        }
+    ],
+    "0xA23FE32C": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "colorID",
+            "type": "int"
+        },
+        {
+            "name": "highlightColorID",
+            "type": "int"
+        }
+    ],
+    "SetEntityCoords": [
+        {
+            "name": "entity",
+            "type": "Entity"
+        },
+        {
+            "name": "xPos",
+            "type": "float"
+        },
+        {
+            "name": "yPos",
+            "type": "float"
+        },
+        {
+            "name": "zPos",
+            "type": "float"
+        },
+        {
+            "name": "alive",
+            "type": "BOOL"
+        },
+        {
+            "name": "deadFlag",
+            "type": "BOOL"
+        },
+        {
+            "name": "ragdollFlag",
+            "type": "BOOL"
+        },
+        {
+            "name": "clearArea",
+            "type": "BOOL"
+        }
+    ],
+    "0xDF70B41B": [
+        {
+            "name": "entity",
+            "type": "Entity"
+        },
+        {
+            "name": "xPos",
+            "type": "float"
+        },
+        {
+            "name": "yPos",
+            "type": "float"
+        },
+        {
+            "name": "zPos",
+            "type": "float"
+        },
+        {
+            "name": "alive",
+            "type": "BOOL"
+        },
+        {
+            "name": "deadFlag",
+            "type": "BOOL"
+        },
+        {
+            "name": "ragdollFlag",
+            "type": "BOOL"
+        },
+        {
+            "name": "clearArea",
+            "type": "BOOL"
+        }
+    ],
+    "SetPedRandomComponentVariation": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "p1",
+            "type": "int"
+        }
+    ],
+    "0x4111BA46": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "p1",
+            "type": "int"
+        }
+    ],
+    "TaskPlayAnim": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "animDictionary",
+            "type": "char*"
+        },
+        {
+            "name": "animationName",
+            "type": "char*"
+        },
+        {
+            "name": "blendInSpeed",
+            "type": "float"
+        },
+        {
+            "name": "blendOutSpeed",
+            "type": "float"
+        },
+        {
+            "name": "duration",
+            "type": "int"
+        },
+        {
+            "name": "flag",
+            "type": "int"
+        },
+        {
+            "name": "playbackRate",
+            "type": "float"
+        },
+        {
+            "name": "lockX",
+            "type": "BOOL"
+        },
+        {
+            "name": "lockY",
+            "type": "BOOL"
+        },
+        {
+            "name": "lockZ",
+            "type": "BOOL"
+        }
+    ],
+    "0x5AB552C6": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "animDictionary",
+            "type": "char*"
+        },
+        {
+            "name": "animationName",
+            "type": "char*"
+        },
+        {
+            "name": "blendInSpeed",
+            "type": "float"
+        },
+        {
+            "name": "blendOutSpeed",
+            "type": "float"
+        },
+        {
+            "name": "duration",
+            "type": "int"
+        },
+        {
+            "name": "flag",
+            "type": "int"
+        },
+        {
+            "name": "playbackRate",
+            "type": "float"
+        },
+        {
+            "name": "lockX",
+            "type": "BOOL"
+        },
+        {
+            "name": "lockY",
+            "type": "BOOL"
+        },
+        {
+            "name": "lockZ",
+            "type": "BOOL"
+        }
+    ],
+    "SetPedCanRagdoll": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "toggle",
+            "type": "BOOL"
+        }
+    ],
+    "0xCF1384C4": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "toggle",
+            "type": "BOOL"
+        }
+    ],
+    "SetPedRandomProps": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        }
+    ],
+    "0xE3318E0E": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        }
+    ],
+    "SetPedAmmo": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "weaponHash",
+            "type": "Hash"
+        },
+        {
+            "name": "ammo",
+            "type": "int"
+        }
+    ],
+    "0xBF90DF1A": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "weaponHash",
+            "type": "Hash"
+        },
+        {
+            "name": "ammo",
+            "type": "int"
+        }
+    ],
+    "SetVehicleCustomSecondaryColour": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        },
+        {
+            "name": "r",
+            "type": "int"
+        },
+        {
+            "name": "g",
+            "type": "int"
+        },
+        {
+            "name": "b",
+            "type": "int"
+        }
+    ],
+    "0x9D77259E": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        },
+        {
+            "name": "r",
+            "type": "int"
+        },
+        {
+            "name": "g",
+            "type": "int"
+        },
+        {
+            "name": "b",
+            "type": "int"
+        }
+    ],
+    "TaskLeaveAnyVehicle": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "p1",
+            "type": "int"
+        },
+        {
+            "name": "flags",
+            "type": "int"
+        }
+    ],
+    "0xDBDD79FA": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "p1",
+            "type": "int"
+        },
+        {
+            "name": "flags",
+            "type": "int"
+        }
+    ],
+    "SetPedArmour": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "amount",
+            "type": "int"
+        }
+    ],
+    "0x4E3A0CC4": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "amount",
+            "type": "int"
+        }
+    ],
+    "SetPedHeadOverlay": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "overlayID",
+            "type": "int"
+        },
+        {
+            "name": "index",
+            "type": "int"
+        },
+        {
+            "name": "opacity",
+            "type": "float"
+        }
+    ],
+    "0xD28DBA90": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "overlayID",
+            "type": "int"
+        },
+        {
+            "name": "index",
+            "type": "int"
+        },
+        {
+            "name": "opacity",
+            "type": "float"
+        }
+    ],
+    "SetPedIntoVehicle": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        },
+        {
+            "name": "seatIndex",
+            "type": "int"
+        }
+    ],
+    "0x7500C79": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        },
+        {
+            "name": "seatIndex",
+            "type": "int"
+        }
+    ],
+    "RemoveAllPedWeapons": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "p1",
+            "type": "BOOL"
+        }
+    ],
+    "0xA44CE817": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "p1",
+            "type": "BOOL"
+        }
+    ],
+    "GiveWeaponToPed": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "weaponHash",
+            "type": "Hash"
+        },
+        {
+            "name": "ammoCount",
+            "type": "int"
+        },
+        {
+            "name": "isHidden",
+            "type": "BOOL"
+        },
+        {
+            "name": "bForceInHand",
+            "type": "BOOL"
+        }
+    ],
+    "0xC4D88A85": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "weaponHash",
+            "type": "Hash"
+        },
+        {
+            "name": "ammoCount",
+            "type": "int"
+        },
+        {
+            "name": "isHidden",
+            "type": "BOOL"
+        },
+        {
+            "name": "bForceInHand",
+            "type": "BOOL"
+        }
+    ],
+    "SetPedPropIndex": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "componentId",
+            "type": "int"
+        },
+        {
+            "name": "drawableId",
+            "type": "int"
+        },
+        {
+            "name": "textureId",
+            "type": "int"
+        },
+        {
+            "name": "attach",
+            "type": "BOOL"
+        }
+    ],
+    "0x829F2E2": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "componentId",
+            "type": "int"
+        },
+        {
+            "name": "drawableId",
+            "type": "int"
+        },
+        {
+            "name": "textureId",
+            "type": "int"
+        },
+        {
+            "name": "attach",
+            "type": "BOOL"
+        }
+    ],
+    "SetVehicleColourCombination": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        },
+        {
+            "name": "colorCombination",
+            "type": "int"
+        }
+    ],
+    "0xA557AEAD": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        },
+        {
+            "name": "colorCombination",
+            "type": "int"
+        }
+    ],
+    "SetPlayerWantedLevel": [
+        {
+            "name": "player",
+            "type": "Player"
+        },
+        {
+            "name": "wantedLevel",
+            "type": "int"
+        },
+        {
+            "name": "delayedResponse",
+            "type": "BOOL"
+        }
+    ],
+    "0xB7A0914B": [
+        {
+            "name": "player",
+            "type": "Player"
+        },
+        {
+            "name": "wantedLevel",
+            "type": "int"
+        },
+        {
+            "name": "delayedResponse",
+            "type": "BOOL"
+        }
+    ],
+    "SetVehicleDoorBroken": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        },
+        {
+            "name": "doorIndex",
+            "type": "int"
+        },
+        {
+            "name": "deleteDoor",
+            "type": "BOOL"
+        }
+    ],
+    "0x8147FEA7": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        },
+        {
+            "name": "doorIndex",
+            "type": "int"
+        },
+        {
+            "name": "deleteDoor",
+            "type": "BOOL"
+        }
+    ],
+    "SetPlayerModel": [
+        {
+            "name": "player",
+            "type": "Player"
+        },
+        {
+            "name": "model",
+            "type": "Hash"
+        }
+    ],
+    "0x774A4C54": [
+        {
+            "name": "player",
+            "type": "Player"
+        },
+        {
+            "name": "model",
+            "type": "Hash"
+        }
+    ],
+    "TaskEveryoneLeaveVehicle": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        }
+    ],
+    "0xC1971F30": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        }
+    ],
+    "RemoveWeaponFromPed": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "weaponHash",
+            "type": "Hash"
+        }
+    ],
+    "0x9C37F220": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "weaponHash",
+            "type": "Hash"
+        }
+    ],
+    "SetPedHeadBlendData": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "shapeFirstID",
+            "type": "int"
+        },
+        {
+            "name": "shapeSecondID",
+            "type": "int"
+        },
+        {
+            "name": "shapeThirdID",
+            "type": "int"
+        },
+        {
+            "name": "skinFirstID",
+            "type": "int"
+        },
+        {
+            "name": "skinSecondID",
+            "type": "int"
+        },
+        {
+            "name": "skinThirdID",
+            "type": "int"
+        },
+        {
+            "name": "shapeMix",
+            "type": "float"
+        },
+        {
+            "name": "skinMix",
+            "type": "float"
+        },
+        {
+            "name": "thirdMix",
+            "type": "float"
+        },
+        {
+            "name": "isParent",
+            "type": "BOOL"
+        }
+    ],
+    "0x60746B88": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "shapeFirstID",
+            "type": "int"
+        },
+        {
+            "name": "shapeSecondID",
+            "type": "int"
+        },
+        {
+            "name": "shapeThirdID",
+            "type": "int"
+        },
+        {
+            "name": "skinFirstID",
+            "type": "int"
+        },
+        {
+            "name": "skinSecondID",
+            "type": "int"
+        },
+        {
+            "name": "skinThirdID",
+            "type": "int"
+        },
+        {
+            "name": "shapeMix",
+            "type": "float"
+        },
+        {
+            "name": "skinMix",
+            "type": "float"
+        },
+        {
+            "name": "thirdMix",
+            "type": "float"
+        },
+        {
+            "name": "isParent",
+            "type": "BOOL"
+        }
+    ],
+    "TaskWarpPedIntoVehicle": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        },
+        {
+            "name": "seatIndex",
+            "type": "int"
+        }
+    ],
+    "0x65D4A35D": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        },
+        {
+            "name": "seatIndex",
+            "type": "int"
+        }
+    ],
+    "AddBlipForEntity": [
+        {
+            "name": "entity",
+            "type": "Entity"
+        }
+    ],
+    "0x30822554": [
+        {
+            "name": "entity",
+            "type": "Entity"
+        }
+    ],
+    "TaskShootAtEntity": [
+        {
+            "name": "entity",
+            "type": "Entity"
+        },
+        {
+            "name": "target",
+            "type": "Entity"
+        },
+        {
+            "name": "duration",
+            "type": "int"
+        },
+        {
+            "name": "firingPattern",
+            "type": "Hash"
+        }
+    ],
+    "0xAC0631C9": [
+        {
+            "name": "entity",
+            "type": "Entity"
+        },
+        {
+            "name": "target",
+            "type": "Entity"
+        },
+        {
+            "name": "duration",
+            "type": "int"
+        },
+        {
+            "name": "firingPattern",
+            "type": "Hash"
+        }
+    ],
+    "TaskDriveBy": [
+        {
+            "name": "driverPed",
+            "type": "Ped"
+        },
+        {
+            "name": "targetPed",
+            "type": "Ped"
+        },
+        {
+            "name": "targetVehicle",
+            "type": "Vehicle"
+        },
+        {
+            "name": "targetX",
+            "type": "float"
+        },
+        {
+            "name": "targetY",
+            "type": "float"
+        },
+        {
+            "name": "targetZ",
+            "type": "float"
+        },
+        {
+            "name": "distanceToShoot",
+            "type": "float"
+        },
+        {
+            "name": "pedAccuracy",
+            "type": "int"
+        },
+        {
+            "name": "p8",
+            "type": "BOOL"
+        },
+        {
+            "name": "firingPattern",
+            "type": "Hash"
+        }
+    ],
+    "0x2B84D1C4": [
+        {
+            "name": "driverPed",
+            "type": "Ped"
+        },
+        {
+            "name": "targetPed",
+            "type": "Ped"
+        },
+        {
+            "name": "targetVehicle",
+            "type": "Vehicle"
+        },
+        {
+            "name": "targetX",
+            "type": "float"
+        },
+        {
+            "name": "targetY",
+            "type": "float"
+        },
+        {
+            "name": "targetZ",
+            "type": "float"
+        },
+        {
+            "name": "distanceToShoot",
+            "type": "float"
+        },
+        {
+            "name": "pedAccuracy",
+            "type": "int"
+        },
+        {
+            "name": "p8",
+            "type": "BOOL"
+        },
+        {
+            "name": "firingPattern",
+            "type": "Hash"
+        }
+    ],
+    "SetPedFaceFeature": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "index",
+            "type": "int"
+        },
+        {
+            "name": "scale",
+            "type": "float"
+        }
+    ],
+    "0x6C8D4458": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "index",
+            "type": "int"
+        },
+        {
+            "name": "scale",
+            "type": "float"
+        }
+    ],
+    "AddPedDecorationFromHashes": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "collection",
+            "type": "Hash"
+        },
+        {
+            "name": "overlay",
+            "type": "Hash"
+        }
+    ],
+    "0x70559AC7": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "collection",
+            "type": "Hash"
+        },
+        {
+            "name": "overlay",
+            "type": "Hash"
+        }
+    ],
+    "SetPlayerInvincible": [
+        {
+            "name": "player",
+            "type": "Player"
+        },
+        {
+            "name": "bInvincible",
+            "type": "BOOL"
+        }
+    ],
+    "0xDFB9A2A2": [
+        {
+            "name": "player",
+            "type": "Player"
+        },
+        {
+            "name": "bInvincible",
+            "type": "BOOL"
+        }
+    ],
+    "TaskPlayAnimAdvanced": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "animDict",
+            "type": "char*"
+        },
+        {
+            "name": "animName",
+            "type": "char*"
+        },
+        {
+            "name": "posX",
+            "type": "float"
+        },
+        {
+            "name": "posY",
+            "type": "float"
+        },
+        {
+            "name": "posZ",
+            "type": "float"
+        },
+        {
+            "name": "rotX",
+            "type": "float"
+        },
+        {
+            "name": "rotY",
+            "type": "float"
+        },
+        {
+            "name": "rotZ",
+            "type": "float"
+        },
+        {
+            "name": "animEnterSpeed",
+            "type": "float"
+        },
+        {
+            "name": "animExitSpeed",
+            "type": "float"
+        },
+        {
+            "name": "duration",
+            "type": "int"
+        },
+        {
+            "name": "flag",
+            "type": "Any"
+        },
+        {
+            "name": "animTime",
+            "type": "float"
+        },
+        {
+            "name": "p14",
+            "type": "Any"
+        },
+        {
+            "name": "p15",
+            "type": "Any"
+        }
+    ],
+    "0x3DDEB0E6": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "animDict",
+            "type": "char*"
+        },
+        {
+            "name": "animName",
+            "type": "char*"
+        },
+        {
+            "name": "posX",
+            "type": "float"
+        },
+        {
+            "name": "posY",
+            "type": "float"
+        },
+        {
+            "name": "posZ",
+            "type": "float"
+        },
+        {
+            "name": "rotX",
+            "type": "float"
+        },
+        {
+            "name": "rotY",
+            "type": "float"
+        },
+        {
+            "name": "rotZ",
+            "type": "float"
+        },
+        {
+            "name": "animEnterSpeed",
+            "type": "float"
+        },
+        {
+            "name": "animExitSpeed",
+            "type": "float"
+        },
+        {
+            "name": "duration",
+            "type": "int"
+        },
+        {
+            "name": "flag",
+            "type": "Any"
+        },
+        {
+            "name": "animTime",
+            "type": "float"
+        },
+        {
+            "name": "p14",
+            "type": "Any"
+        },
+        {
+            "name": "p15",
+            "type": "Any"
+        }
+    ],
+    "VerifyPasswordHash": [
+        {
+            "name": "password",
+            "type": "char*"
+        },
+        {
+            "name": "hash",
+            "type": "char*"
+        }
+    ],
+    "0x2E310ACD": [
+        {
+            "name": "password",
+            "type": "char*"
+        },
+        {
+            "name": "hash",
+            "type": "char*"
+        }
+    ],
+    "SetVehicleNumberPlateText": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        },
+        {
+            "name": "plateText",
+            "type": "char*"
+        }
+    ],
+    "0x400F9556": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        },
+        {
+            "name": "plateText",
+            "type": "char*"
+        }
+    ],
+    "AddBlipForArea": [
+        {
+            "name": "x",
+            "type": "float"
+        },
+        {
+            "name": "y",
+            "type": "float"
+        },
+        {
+            "name": "z",
+            "type": "float"
+        },
+        {
+            "name": "width",
+            "type": "float"
+        },
+        {
+            "name": "height",
+            "type": "float"
+        }
+    ],
+    "0x6228F159": [
+        {
+            "name": "x",
+            "type": "float"
+        },
+        {
+            "name": "y",
+            "type": "float"
+        },
+        {
+            "name": "z",
+            "type": "float"
+        },
+        {
+            "name": "width",
+            "type": "float"
+        },
+        {
+            "name": "height",
+            "type": "float"
+        }
+    ],
+    "TaskEnterVehicle": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        },
+        {
+            "name": "timeout",
+            "type": "int"
+        },
+        {
+            "name": "seatIndex",
+            "type": "int"
+        },
+        {
+            "name": "speed",
+            "type": "float"
+        },
+        {
+            "name": "flag",
+            "type": "int"
+        },
+        {
+            "name": "p6",
+            "type": "Any"
+        }
+    ],
+    "0xB8689B4E": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        },
+        {
+            "name": "timeout",
+            "type": "int"
+        },
+        {
+            "name": "seatIndex",
+            "type": "int"
+        },
+        {
+            "name": "speed",
+            "type": "float"
+        },
+        {
+            "name": "flag",
+            "type": "int"
+        },
+        {
+            "name": "p6",
+            "type": "Any"
+        }
+    ],
+    "SetPedConfigFlag": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "flagId",
+            "type": "int"
+        },
+        {
+            "name": "value",
+            "type": "BOOL"
+        }
+    ],
+    "0x9CFBE10D": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "flagId",
+            "type": "int"
+        },
+        {
+            "name": "value",
+            "type": "BOOL"
+        }
+    ],
+    "SetPedComponentVariation": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "componentId",
+            "type": "int"
+        },
+        {
+            "name": "drawableId",
+            "type": "int"
+        },
+        {
+            "name": "textureId",
+            "type": "int"
+        },
+        {
+            "name": "paletteId",
+            "type": "int"
+        }
+    ],
+    "0xD4F7B05C": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "componentId",
+            "type": "int"
+        },
+        {
+            "name": "drawableId",
+            "type": "int"
+        },
+        {
+            "name": "textureId",
+            "type": "int"
+        },
+        {
+            "name": "paletteId",
+            "type": "int"
+        }
+    ],
+    "SetVehicleDirtLevel": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        },
+        {
+            "name": "dirtLevel",
+            "type": "float"
+        }
+    ],
+    "0x2B39128B": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        },
+        {
+            "name": "dirtLevel",
+            "type": "float"
+        }
+    ],
+    "SetPedToRagdollWithFall": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "time",
+            "type": "int"
+        },
+        {
+            "name": "p2",
+            "type": "int"
+        },
+        {
+            "name": "ragdollType",
+            "type": "int"
+        },
+        {
+            "name": "x",
+            "type": "float"
+        },
+        {
+            "name": "y",
+            "type": "float"
+        },
+        {
+            "name": "z",
+            "type": "float"
+        },
+        {
+            "name": "p7",
+            "type": "float"
+        },
+        {
+            "name": "p8",
+            "type": "float"
+        },
+        {
+            "name": "p9",
+            "type": "float"
+        },
+        {
+            "name": "p10",
+            "type": "float"
+        },
+        {
+            "name": "p11",
+            "type": "float"
+        },
+        {
+            "name": "p12",
+            "type": "float"
+        },
+        {
+            "name": "p13",
+            "type": "float"
+        }
+    ],
+    "0xFA12E286": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "time",
+            "type": "int"
+        },
+        {
+            "name": "p2",
+            "type": "int"
+        },
+        {
+            "name": "ragdollType",
+            "type": "int"
+        },
+        {
+            "name": "x",
+            "type": "float"
+        },
+        {
+            "name": "y",
+            "type": "float"
+        },
+        {
+            "name": "z",
+            "type": "float"
+        },
+        {
+            "name": "p7",
+            "type": "float"
+        },
+        {
+            "name": "p8",
+            "type": "float"
+        },
+        {
+            "name": "p9",
+            "type": "float"
+        },
+        {
+            "name": "p10",
+            "type": "float"
+        },
+        {
+            "name": "p11",
+            "type": "float"
+        },
+        {
+            "name": "p12",
+            "type": "float"
+        },
+        {
+            "name": "p13",
+            "type": "float"
+        }
+    ],
+    "SetPedToRagdoll": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "time1",
+            "type": "int"
+        },
+        {
+            "name": "time2",
+            "type": "int"
+        },
+        {
+            "name": "ragdollType",
+            "type": "int"
+        },
+        {
+            "name": "p4",
+            "type": "BOOL"
+        },
+        {
+            "name": "p5",
+            "type": "BOOL"
+        },
+        {
+            "name": "p6",
+            "type": "BOOL"
+        }
+    ],
+    "0x83CB5052": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "time1",
+            "type": "int"
+        },
+        {
+            "name": "time2",
+            "type": "int"
+        },
+        {
+            "name": "ragdollType",
+            "type": "int"
+        },
+        {
+            "name": "p4",
+            "type": "BOOL"
+        },
+        {
+            "name": "p5",
+            "type": "BOOL"
+        },
+        {
+            "name": "p6",
+            "type": "BOOL"
+        }
+    ],
+    "CreatePed": [
+        {
+            "name": "pedType",
+            "type": "int"
+        },
+        {
+            "name": "modelHash",
+            "type": "Hash"
+        },
+        {
+            "name": "x",
+            "type": "float"
+        },
+        {
+            "name": "y",
+            "type": "float"
+        },
+        {
+            "name": "z",
+            "type": "float"
+        },
+        {
+            "name": "heading",
+            "type": "float"
+        },
+        {
+            "name": "isNetwork",
+            "type": "BOOL"
+        },
+        {
+            "name": "bScriptHostPed",
+            "type": "BOOL"
+        }
+    ],
+    "0x389EF71": [
+        {
+            "name": "pedType",
+            "type": "int"
+        },
+        {
+            "name": "modelHash",
+            "type": "Hash"
+        },
+        {
+            "name": "x",
+            "type": "float"
+        },
+        {
+            "name": "y",
+            "type": "float"
+        },
+        {
+            "name": "z",
+            "type": "float"
+        },
+        {
+            "name": "heading",
+            "type": "float"
+        },
+        {
+            "name": "isNetwork",
+            "type": "BOOL"
+        },
+        {
+            "name": "bScriptHostPed",
+            "type": "BOOL"
+        }
+    ],
+    "TaskShootAtCoord": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "x",
+            "type": "float"
+        },
+        {
+            "name": "y",
+            "type": "float"
+        },
+        {
+            "name": "z",
+            "type": "float"
+        },
+        {
+            "name": "duration",
+            "type": "int"
+        },
+        {
+            "name": "firingPattern",
+            "type": "Hash"
+        }
+    ],
+    "0x601C22E3": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "x",
+            "type": "float"
+        },
+        {
+            "name": "y",
+            "type": "float"
+        },
+        {
+            "name": "z",
+            "type": "float"
+        },
+        {
+            "name": "duration",
+            "type": "int"
+        },
+        {
+            "name": "firingPattern",
+            "type": "Hash"
+        }
+    ],
+    "SetPedResetFlag": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "flagId",
+            "type": "int"
+        },
+        {
+            "name": "doReset",
+            "type": "BOOL"
+        }
+    ],
+    "0xCFF6FF66": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "flagId",
+            "type": "int"
+        },
+        {
+            "name": "doReset",
+            "type": "BOOL"
+        }
+    ],
+    "CreateVehicle": [
+        {
+            "name": "modelHash",
+            "type": "Hash"
+        },
+        {
+            "name": "x",
+            "type": "float"
+        },
+        {
+            "name": "y",
+            "type": "float"
+        },
+        {
+            "name": "z",
+            "type": "float"
+        },
+        {
+            "name": "heading",
+            "type": "float"
+        },
+        {
+            "name": "isNetwork",
+            "type": "BOOL"
+        },
+        {
+            "name": "netMissionEntity",
+            "type": "BOOL"
+        }
+    ],
+    "0xDD75460A": [
+        {
+            "name": "modelHash",
+            "type": "Hash"
+        },
+        {
+            "name": "x",
+            "type": "float"
+        },
+        {
+            "name": "y",
+            "type": "float"
+        },
+        {
+            "name": "z",
+            "type": "float"
+        },
+        {
+            "name": "heading",
+            "type": "float"
+        },
+        {
+            "name": "isNetwork",
+            "type": "BOOL"
+        },
+        {
+            "name": "netMissionEntity",
+            "type": "BOOL"
+        }
+    ],
+    "SetPlayerControl": [
+        {
+            "name": "player",
+            "type": "Player"
+        },
+        {
+            "name": "bHasControl",
+            "type": "BOOL"
+        },
+        {
+            "name": "flags",
+            "type": "int"
+        }
+    ],
+    "0xD17AFCD8": [
+        {
+            "name": "player",
+            "type": "Player"
+        },
+        {
+            "name": "bHasControl",
+            "type": "BOOL"
+        },
+        {
+            "name": "flags",
+            "type": "int"
+        }
+    ],
+    "SetVehicleDoorsLocked": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        },
+        {
+            "name": "doorLockStatus",
+            "type": "int"
+        }
+    ],
+    "0x4CDD35D0": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        },
+        {
+            "name": "doorLockStatus",
+            "type": "int"
+        }
+    ],
+    "SetPedEyeColor": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "index",
+            "type": "int"
+        }
+    ],
+    "0xEC09DB1B": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "index",
+            "type": "int"
+        }
+    ],
+    "TaskGoToEntity": [
+        {
+            "name": "entity",
+            "type": "Entity"
+        },
+        {
+            "name": "target",
+            "type": "Entity"
+        },
+        {
+            "name": "duration",
+            "type": "int"
+        },
+        {
+            "name": "distance",
+            "type": "float"
+        },
+        {
+            "name": "speed",
+            "type": "float"
+        },
+        {
+            "name": "p5",
+            "type": "float"
+        },
+        {
+            "name": "p6",
+            "type": "int"
+        }
+    ],
+    "0x374827C2": [
+        {
+            "name": "entity",
+            "type": "Entity"
+        },
+        {
+            "name": "target",
+            "type": "Entity"
+        },
+        {
+            "name": "duration",
+            "type": "int"
+        },
+        {
+            "name": "distance",
+            "type": "float"
+        },
+        {
+            "name": "speed",
+            "type": "float"
+        },
+        {
+            "name": "p5",
+            "type": "float"
+        },
+        {
+            "name": "p6",
+            "type": "int"
+        }
+    ],
+    "TaskGoToCoordAnyMeans": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "x",
+            "type": "float"
+        },
+        {
+            "name": "y",
+            "type": "float"
+        },
+        {
+            "name": "z",
+            "type": "float"
+        },
+        {
+            "name": "fMoveBlendRatio",
+            "type": "float"
+        },
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        },
+        {
+            "name": "bUseLongRangeVehiclePathing",
+            "type": "BOOL"
+        },
+        {
+            "name": "drivingFlags",
+            "type": "int"
+        },
+        {
+            "name": "fMaxRangeToShootTargets",
+            "type": "float"
+        }
+    ],
+    "0xF91DF93B": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "x",
+            "type": "float"
+        },
+        {
+            "name": "y",
+            "type": "float"
+        },
+        {
+            "name": "z",
+            "type": "float"
+        },
+        {
+            "name": "fMoveBlendRatio",
+            "type": "float"
+        },
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        },
+        {
+            "name": "bUseLongRangeVehiclePathing",
+            "type": "BOOL"
+        },
+        {
+            "name": "drivingFlags",
+            "type": "int"
+        },
+        {
+            "name": "fMaxRangeToShootTargets",
+            "type": "float"
+        }
+    ],
+    "SetVehicleAlarm": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        },
+        {
+            "name": "state",
+            "type": "BOOL"
+        }
+    ],
+    "0x24877D84": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        },
+        {
+            "name": "state",
+            "type": "BOOL"
+        }
+    ],
+    "ClearPlayerWantedLevel": [
+        {
+            "name": "player",
+            "type": "Player"
+        }
+    ],
+    "0x54EA5BCC": [
+        {
+            "name": "player",
+            "type": "Player"
+        }
+    ],
+    "SetEntityVelocity": [
+        {
+            "name": "entity",
+            "type": "Entity"
+        },
+        {
+            "name": "x",
+            "type": "float"
+        },
+        {
+            "name": "y",
+            "type": "float"
+        },
+        {
+            "name": "z",
+            "type": "float"
+        }
+    ],
+    "0xFF5A1988": [
+        {
+            "name": "entity",
+            "type": "Entity"
+        },
+        {
+            "name": "x",
+            "type": "float"
+        },
+        {
+            "name": "y",
+            "type": "float"
+        },
+        {
+            "name": "z",
+            "type": "float"
+        }
+    ],
+    "TaskCombatPed": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "targetPed",
+            "type": "Ped"
+        },
+        {
+            "name": "p2",
+            "type": "int"
+        },
+        {
+            "name": "p3",
+            "type": "int"
+        }
+    ],
+    "0xCB0D8932": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "targetPed",
+            "type": "Ped"
+        },
+        {
+            "name": "p2",
+            "type": "int"
+        },
+        {
+            "name": "p3",
+            "type": "int"
+        }
+    ],
+    "GiveWeaponComponentToPed": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "weaponHash",
+            "type": "Hash"
+        },
+        {
+            "name": "componentHash",
+            "type": "Hash"
+        }
+    ],
+    "0x3E1E286D": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "weaponHash",
+            "type": "Hash"
+        },
+        {
+            "name": "componentHash",
+            "type": "Hash"
+        }
+    ],
+    "TaskLeaveVehicle": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        },
+        {
+            "name": "flags",
+            "type": "int"
+        }
+    ],
+    "0x7B1141C6": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        },
+        {
+            "name": "flags",
+            "type": "int"
+        }
+    ],
+    "TaskHandsUp": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "duration",
+            "type": "int"
+        },
+        {
+            "name": "facingPed",
+            "type": "Ped"
+        },
+        {
+            "name": "p3",
+            "type": "int"
+        },
+        {
+            "name": "p4",
+            "type": "BOOL"
+        }
+    ],
+    "0x8DCC19C5": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "duration",
+            "type": "int"
+        },
+        {
+            "name": "facingPed",
+            "type": "Ped"
+        },
+        {
+            "name": "p3",
+            "type": "int"
+        },
+        {
+            "name": "p4",
+            "type": "BOOL"
+        }
+    ],
+    "SetCurrentPedWeapon": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "weaponHash",
+            "type": "Hash"
+        },
+        {
+            "name": "bForceInHand",
+            "type": "BOOL"
+        }
+    ],
+    "0xB8278882": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "weaponHash",
+            "type": "Hash"
+        },
+        {
+            "name": "bForceInHand",
+            "type": "BOOL"
+        }
+    ],
+    "SetVehicleColours": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        },
+        {
+            "name": "colorPrimary",
+            "type": "int"
+        },
+        {
+            "name": "colorSecondary",
+            "type": "int"
+        }
+    ],
+    "0x57F24253": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        },
+        {
+            "name": "colorPrimary",
+            "type": "int"
+        },
+        {
+            "name": "colorSecondary",
+            "type": "int"
+        }
+    ],
+    "TaskReactAndFleePed": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "fleeTarget",
+            "type": "Ped"
+        }
+    ],
+    "0x8A632BD8": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "fleeTarget",
+            "type": "Ped"
+        }
+    ],
+    "SetVehicleBodyHealth": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        },
+        {
+            "name": "value",
+            "type": "float"
+        }
+    ],
+    "0x920C2517": [
+        {
+            "name": "vehicle",
+            "type": "Vehicle"
+        },
+        {
+            "name": "value",
+            "type": "float"
+        }
+    ],
+    "TaskGoStraightToCoord": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "x",
+            "type": "float"
+        },
+        {
+            "name": "y",
+            "type": "float"
+        },
+        {
+            "name": "z",
+            "type": "float"
+        },
+        {
+            "name": "speed",
+            "type": "float"
+        },
+        {
+            "name": "timeout",
+            "type": "int"
+        },
+        {
+            "name": "targetHeading",
+            "type": "float"
+        },
+        {
+            "name": "distanceToSlide",
+            "type": "float"
+        }
+    ],
+    "0x80A9E7A7": [
+        {
+            "name": "ped",
+            "type": "Ped"
+        },
+        {
+            "name": "x",
+            "type": "float"
+        },
+        {
+            "name": "y",
+            "type": "float"
+        },
+        {
+            "name": "z",
+            "type": "float"
+        },
+        {
+            "name": "speed",
+            "type": "float"
+        },
+        {
+            "name": "timeout",
+            "type": "int"
+        },
+        {
+            "name": "targetHeading",
+            "type": "float"
+        },
+        {
+            "name": "distanceToSlide",
+            "type": "float"
+        }
+    ]
+}
